@@ -1,8 +1,8 @@
 {
-  "latest": "main-46",
+  "latest": "v1.0.0-test2-47",
   "versions": {
-    "main-46": {
-      "date": "2025-07-24T21:37:03Z",
+    "v1.0.0-test2-47": {
+      "date": "2025-07-24T21:37:20Z",
       "assets": [
         "tribe, tribe-darwin-amd64.sha256, tribe-darwin-arm64.sha256, tribe-linux-amd64.sha256, tribe-linux-arm64.sha256, tribe-windows-amd64.exe.sha256, tribe.exe"
       ]
