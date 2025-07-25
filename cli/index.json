@@ -1,8 +1,8 @@
 {
-  "latest": "main-104",
+  "latest": "main-105",
   "versions": {
-    "main-104": {
-      "date": "2025-07-25T02:38:23Z",
+    "main-105": {
+      "date": "2025-07-25T02:40:41Z",
       "assets": [
         "tribe-darwin-amd64, tribe-darwin-amd64.sha256, tribe-darwin-arm64, tribe-darwin-arm64.sha256, tribe-linux-amd64, tribe-linux-amd64.sha256, tribe-linux-arm64, tribe-linux-arm64.sha256, tribe-windows-amd64.exe, tribe-windows-amd64.exe.sha256"
       ]
